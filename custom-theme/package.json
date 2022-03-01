@@ -1,5 +1,5 @@
 {
-    "name": "london",
+    "name": "internet-playroom",
     "description": "A minimum, image-centric theme for Ghost.",
     "demo": "https://london.ghost.io",
     "version": "1.0.0",
@@ -40,10 +40,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/London.git"
+        "url": "https://github.com/jewelsjacobs/internet-playroom.git"
     },
-    "bugs": "https://github.com/TryGhost/London/issues",
-    "contributors": "https://github.com/TryGhost/London/graphs/contributors",
+    "bugs": "https://github.com/jewelsjacobs/internet-playroom/issues",
     "browserslist": [
         "defaults"
     ],
